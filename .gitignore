@@ -28,3 +28,4 @@ wheels/
 .coverage
 htmlcov/
 .pytest_cache/
+# DevPilot-AI updated
